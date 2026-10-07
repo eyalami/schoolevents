@@ -5,12 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:בן שמן תשפ״ז
 BEGIN:VEVENT
-UID:shows2-0@benshemen-tashpaz
+UID:parents0-0@benshemen-tashpaz
 DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:הצגה – שכבות ד׳–ו׳
-DESCRIPTION:בית חינוך בן שמן · שכבות ד׳–ו׳
+DTSTART:20261013T170000Z
+DTEND:20261013T183000Z
+SUMMARY:מפגש ראשון עם מועצת ההורים
+DESCRIPTION:בית חינוך בן שמן · לתכנון המפגשים ו
+ לבניית הדרך המשותפת · שעת סיום משוערת
 LOCATION:בית חינוך בן שמן
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
